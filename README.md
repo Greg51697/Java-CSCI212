@@ -5,8 +5,9 @@ Page for coding Java Projects
 
 ## Projects
 
-* Project 0 [Source Code](https://github.com/Greg51697/Java-CSCI212/tree/master/Project0/src) 
+All of my projects can be found on my RPubs account linked below!
+rmd files are also available.
 
-* Project 1 [Source Code](https://github.com/Greg51697/Java-CSCI212/tree/master/Project1/src)
+* RPubs Account [Projects](http://rpubs.com/gregmaghakian) 
 
-* Project 2 (In Progress)
+
